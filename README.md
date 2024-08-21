@@ -16,3 +16,6 @@ This is a React application for managing a product inventory. Users can add prod
 - **React**: JavaScript library for building user interfaces.
 - **CSS**: For styling the application.
 - **React Hooks**: `useState` and `useEffect` for managing state and side effects.
+
+## LIVE DEMO
+[**LIVE DEMO**]()
