@@ -18,4 +18,4 @@ This is a React application for managing a product inventory. Users can add prod
 - **React Hooks**: `useState` and `useEffect` for managing state and side effects.
 
 ## LIVE DEMO
-[**LIVE DEMO**]()
+[**LIVE DEMO**](https://react-inventory-manager.netlify.app/)
